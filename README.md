@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Oğuzhan Öztürk
+- 🌱 I’m currently learning python
